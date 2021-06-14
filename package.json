@@ -1,0 +1,15 @@
+{
+  "name": "js-tdd-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "capitalizeFirstLetters.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
